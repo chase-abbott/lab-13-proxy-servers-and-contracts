@@ -13,10 +13,6 @@
   ],
   "rules": {
     "no-console": "warn",
-    "semi": [
-      "error",
-      "always"
-    ],
     "space-in-parens": [
       "error"
     ],
