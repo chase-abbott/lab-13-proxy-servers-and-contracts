@@ -1,5 +1,4 @@
-import app from '../lib/app.js';
-import supertest from 'supertest';
+
 import { weather } from '../data/weather.js'
 import { locations } from '../data/location.js'
 import { reviews } from '../data/reviews.js'
