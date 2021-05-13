@@ -6,8 +6,6 @@ import { reviews } from '../data/reviews.js'
 import { mungeWeather, mungeLocation, mungeReviews } from '../lib/utils.js'
 
 
-const request = supertest(app);
-
 describe('API Routes', () => {
 
 
