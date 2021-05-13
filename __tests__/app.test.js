@@ -16,7 +16,7 @@ describe('API Routes', () => {
     const expected = [
       {
         "forecast": "Scattered Clouds",
-        "time": "2021-05-12 20:10",
+        "time": "2021-05-12:20",
       }]
 
     // did it return the data we expected?
